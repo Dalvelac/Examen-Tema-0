@@ -2,6 +2,6 @@
 
 [Link al repositorio](https://github.com/Dalvelac/Examen-Tema-0)
 
-[Guía:]
+Guía:
 
-- Las respuestas de las preguntas de opción multiple se encuentran en el archivo "RESPUESTAS".
+- Las respuestas de la parte del examen de opcion multiple se encuentra en el archivo RESPONDER. Solo encontrarás la respuesta.
