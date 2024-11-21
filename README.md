@@ -4,4 +4,4 @@
 
 Guía:
 
-- Las respuestas de la parte del examen de opcion multiple se encuentra en el archivo RESPONDER. Solo encontrarás la respuesta.
+- Las respuestas de la parte del examen de opcion multiple se encuentra en el archivo PREGUNTAS. Solo encontrarás la respuesta.
